@@ -92,3 +92,7 @@ Las contribuciones son bienvenidas. Por favor:
 ## ⭐ Agradecimientos
 
 A todos los miembros de la comunidad GitHub, Telegram y DEV Community por hacer este impulso posible
+
+## PROPOSE
+
+Es un bot dedicado a un canal y un grupo privaod en telegram, por seguridad, hemos convertido esto en una plantilla para el uso
