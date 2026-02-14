@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<app>
+  <publisher>Influent</publisher>
+  <app>fuarhub-jginv</app>
+  <name>Fuar.hub Telegram Bot for Invitation to JoinGroup</name>
+  <version>v1.0-26.02-18.02</version>
+  <correlationid>1f8bc63c661150a964155bedd45faa7f4908ebbeba4b4e6acbf678db3c572b2a</correlationid>
+  <rate>PUBLIC CONTENT</rate>
+  <author>JesusQuijada34</author>
+  <platform>AlphaCube</platform>
+</app>
